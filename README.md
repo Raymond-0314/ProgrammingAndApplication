@@ -19,4 +19,4 @@
 
 ## 02 Web Crawler
 
-[]
+[EX02_01_My_Chatbot](EX02_01_My_Chatbot.ipynb)
