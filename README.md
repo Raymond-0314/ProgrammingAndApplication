@@ -29,7 +29,7 @@
 
 [EX02_05_PTT_Gossiping](EX02_05_PTT_Gossiping.ipynb)
 
-[EX02-06 開眼電影]()
+[EX02-06 開眼電影](EX02_06_開眼電影.ipynb)
 
 [EX02-07 KKDay]()
 
