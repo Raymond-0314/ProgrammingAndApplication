@@ -52,3 +52,5 @@
 ## 05 Web API
 
 [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
+
+[EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
