@@ -58,3 +58,7 @@
 [EX05_03_Reply_Multi_type_Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 
 [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
+
+## Homework
+
+[hw02](hw02.ipynb)
