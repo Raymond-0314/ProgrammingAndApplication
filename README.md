@@ -62,3 +62,5 @@
 ## Homework
 
 [hw02](hw02.ipynb)
+
+[hw03](hw03.ipynb)
