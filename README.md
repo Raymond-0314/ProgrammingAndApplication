@@ -57,6 +57,8 @@
 
 [EX04_03_客戶分群](EX04_03_客戶分群.ipynb)
 
+[EX04_04_加州房價](EX04_04_加州房價.ipynb)
+
 ## 05 Web API
 
 [EX05_01_Echo_Bot](EX05_01_Echo_Bot.ipynb)
